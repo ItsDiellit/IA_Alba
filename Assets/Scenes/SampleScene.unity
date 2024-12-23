@@ -7405,8 +7405,7 @@ MonoBehaviour:
   - {fileID: 835144377}
   - {fileID: 1011555494}
   - {fileID: 1350940132}
-  _patrolAreaSize: {x: 30, y: 25}
-  _patrolAreaCenter: {fileID: 892947517}
+  _waitTimeAtPoint: 5
   _visionRange: 10
   _visionAngle: 120
 --- !u!195 &1643307528
