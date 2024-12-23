@@ -7408,6 +7408,7 @@ MonoBehaviour:
   _waitTimeAtPoint: 5
   _visionRange: 10
   _visionAngle: 120
+  _attackRange: 1.5
 --- !u!195 &1643307528
 NavMeshAgent:
   m_ObjectHideFlags: 0
